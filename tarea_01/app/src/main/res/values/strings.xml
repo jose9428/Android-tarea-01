@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tarea_01</string>
+
+    <string-array name="departamentos">
+        <item>70 Mtrs</item>
+        <item>90 Mtrs</item>
+        <item>110 Mtrs</item>
+    </string-array>
+
+</resources>
